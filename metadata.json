@@ -1,0 +1,5 @@
+{
+  "name": "DailyVeggies",
+  "description": "An eco-friendly web application for ordering fresh vegetables daily, featuring customizable pricing, a shopping cart, and weekly subscription plans.",
+  "requestFramePermissions": []
+}
